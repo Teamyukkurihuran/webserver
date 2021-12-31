@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://www.yuhunet.ml/mc/</loc>
+  <lastmod>2021-09-21T05:57:51+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.yuhunet.ml/mc/index.html</loc>
+  <lastmod>2021-09-21T05:57:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.yuhunet.ml/mc/page.html</loc>
+  <lastmod>2021-06-26T09:24:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.yuhunet.ml/mc/join/</loc>
+  <lastmod>2021-09-19T01:19:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.yuhunet.ml/mc/page_3.html</loc>
+  <lastmod>2021-06-26T09:27:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.yuhunet.ml/mc/status/</loc>
+  <lastmod>2021-09-03T09:23:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.yuhunet.ml/mc/news/20.html</loc>
+  <lastmod>2021-06-28T07:40:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.yuhunet.ml/mc/news/22.html</loc>
+  <lastmod>2021-08-23T06:58:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.yuhunet.ml/mc/rule/</loc>
+  <lastmod>2021-09-19T01:18:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.yuhunet.ml/mc/MAP.html</loc>
+  <lastmod>2021-07-23T08:29:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.yuhunet.ml/mc/join/index.html</loc>
+  <lastmod>2021-09-19T01:19:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.yuhunet.ml/mc/command/</loc>
+  <lastmod>2021-09-04T06:03:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.yuhunet.ml/mc/rule/index.html</loc>
+  <lastmod>2021-09-19T01:18:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.yuhunet.ml/mc/command/index.html</loc>
+  <lastmod>2021-09-04T06:03:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
+</urlset>
